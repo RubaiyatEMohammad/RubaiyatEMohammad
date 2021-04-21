@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RubaiyatEMohammad
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on webbased application
+- 💞️ I’m looking to collaborate on web-based application
 - 📫 How to reach me www.facebook.com/rubaiyat
 
 <!---
